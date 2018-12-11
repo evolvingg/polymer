@@ -1,0 +1,7 @@
+{
+  "name": "polymer-work",
+  "short_name": "polymer-work",
+  "description": "polymer work",
+  "start_url": "/",
+  "display": "standalone"
+}
